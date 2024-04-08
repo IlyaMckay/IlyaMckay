@@ -15,7 +15,7 @@ sources: https://www.sitepoint.com/github-profile-readme/
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
 </div>
 
 ---
