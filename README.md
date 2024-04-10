@@ -1,4 +1,4 @@
-sources: https://www.sitepoint.com/github-profile-readme/
+<!-- sources: https://www.sitepoint.com/github-profile-readme/ -->
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1100" height="250"/>
