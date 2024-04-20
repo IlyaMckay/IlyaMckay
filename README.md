@@ -1,7 +1,7 @@
 <!-- sources: https://www.sitepoint.com/github-profile-readme/ -->
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1100" height="250"/>
+  <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
 </div>
 ---
 
@@ -21,9 +21,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cult2rologist&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaMckay&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cult2rologist&layout=compact&theme=transparent&hide_border=false&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaMckay&layout=compact&theme=transparent&hide_border=false&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
