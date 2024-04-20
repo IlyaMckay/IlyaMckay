@@ -6,7 +6,7 @@
 -->
 ## Hello and Welcome 👋
 
-#### I'm Ilya and there's no ~~life~~ code without music and sport
+#### I'm `Ilya` and there's no ~~life~~ code without music and sport
 ####  - 🛹 Skateboarding taught me to get up and do, no matter what, because I'm the only one who needs it
 ####  - 🎸 Hardcore punk taught me to think globally but act locally and support those in whom I believe
 
