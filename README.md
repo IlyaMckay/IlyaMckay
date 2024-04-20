@@ -1,11 +1,22 @@
-<!-- sources: https://www.sitepoint.com/github-profile-readme/ -->
+<!-- sources: https://www.sitepoint.com/github-profile-readme/ 
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
-</div>
+</div> 
+-->
+## Hello and Welcome 👋
+
+#### I'm Ilya and there's no ~~life~~ code without music and sport
+####  - 🛹 Skateboarding taught me to get up and do, no matter what, because I'm the only one who needs it
+####  - 🎸 Hardcore punk taught me to think globally but act locally and support those in whom I believe
+
+#### In my opinion, that's an important and valuable part of coding ⌨️ - never give up, plan, do, and support
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -21,12 +32,15 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaMckay&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaMckay&theme=transparent&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaMckay&layout=compact&theme=transparent&hide_border=false&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋
+
+
+
+
 
 <!--
 **cult2rologist/cult2rologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
