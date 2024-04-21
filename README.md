@@ -6,9 +6,11 @@
 -->
 ### Hi there 👋 My name is Ilya
 
-I've been working in IT service management for a while now (think, like, way more than 7 years!), but recently I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course sparked a passion for coding. Turns out, Python is my jam (who knew?)!
+I've been working in IT service management for a while now (think, like, way more than 7 years!), but recently I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course that sparked a passion for coding. Turns out, Python is my jam (who knew?)!
 
-So, now `I'm` a super motivated `Junior Python Developer` with nearly a year of self-learning under my belt. I've built a solid foundation in Python, even tackled some concurrency and microservices stuff! I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
+So, now `I'm` a super motivated `Junior Python Developer` with nearly a year of self-learning under my belt. 
+I've built a solid foundation in Python, even tackled some concurrency and microservices stuff!
+I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
 
 #### For me there's no ~~life~~ code without:
 <details><summary>
@@ -24,9 +26,11 @@ So, now `I'm` a super motivated `Junior Python Developer` with nearly a year of 
 
 ---
 
-### Take a look 👀
+### What's interesting 👀
 
-- 🏁 I just finished [Incident Management Telegram Bot](https://github.com/IlyaMckay/Incident-Mgmt-Telegram-Bot)
+- 🏁 I recently completed development on the [Incident Management Telegram Bot](https://github.com/IlyaMckay/Incident-Mgmt-Telegram-Bot)
+
+- 🌱 Currently, I am enhancing my problem-solving skills through learning algorithms and mastering Big O notation
 
 ---
 
