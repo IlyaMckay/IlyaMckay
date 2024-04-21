@@ -4,37 +4,60 @@
   <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
 </div> 
 -->
-## Hello and Welcome 👋
+### Hi there 👋 my name is Ilya
 
-#### I'm `Ilya` and there's no ~~life~~ code without music and sport
-####  - 🛹 Skateboarding taught me to get up and do, no matter what, because I'm the only one who needs it
-####  - 🎸 Hardcore punk taught me to think globally but act locally and support those in whom I believe
+I've been working in IT service management for a while now (think, like, way more than 7 years!), but recently I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course sparked a passion for coding. Turns out, Python is my jam (who knew?)!
 
-#### In my opinion, that's an important and valuable part of coding ⌨️ - never give up, plan, do, and support
+So, now I'm a super motivated Junior Python Developer with nearly a year of self-learning under my belt. I've built a solid foundation in Python, even tackled some concurrency and microservices stuff! I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
 
----
+For me there's no ~~life~~ code without:
+<details><summary>
+  🛹 Sport and Music 🎸
+  </summary>
+  
+  - Skateboarding taught me to get up and do, no matter what, because I'm the one who needs it most
+  
+  - Hardcore punk taught me to think globally but act locally and support those in whom I believe
 
-
-## :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
-</div>
+####  `I think that's a crucial and valuable aspect of coding ⌨️ - plan, do, support, and never give up`
+</details>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaMckay&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+### Take a look 👀
+
+- 🏁 I just finished [Incident Management Telegram Bot](https://github.com/IlyaMckay/Incident-Mgmt-Telegram-Bot)
+
+---
+
+<details><summary>
+  
+  ### Languages and Tools :hammer_and_wrench:
+  </summary>
+  </br>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  </div>    
+</details>
+</br>
+
+---
+
+### :fire: My Stats:
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaMckay&layout=compact&theme=transparent&hide_border=false&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlyaMckay&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+
 
 
 
@@ -43,6 +66,13 @@
 
 
 <!--
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
+</div>
+
 **cult2rologist/cult2rologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
