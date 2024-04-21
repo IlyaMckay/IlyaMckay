@@ -4,13 +4,13 @@
   <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
 </div> 
 -->
-### Hi there 👋 my name is Ilya
+### Hi there 👋 My name is Ilya
 
 I've been working in IT service management for a while now (think, like, way more than 7 years!), but recently I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course sparked a passion for coding. Turns out, Python is my jam (who knew?)!
 
-So, now I'm a super motivated Junior Python Developer with nearly a year of self-learning under my belt. I've built a solid foundation in Python, even tackled some concurrency and microservices stuff! I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
+So, now `I'm` a super motivated `Junior Python Developer` with nearly a year of self-learning under my belt. I've built a solid foundation in Python, even tackled some concurrency and microservices stuff! I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
 
-For me there's no ~~life~~ code without:
+#### For me there's no ~~life~~ code without:
 <details><summary>
   🛹 Sport and Music 🎸
   </summary>
@@ -47,7 +47,6 @@ For me there's no ~~life~~ code without:
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   </div>    
 </details>
-</br>
 
 ---
 
