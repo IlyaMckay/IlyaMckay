@@ -1,9 +1,3 @@
-<!-- sources: https://www.sitepoint.com/github-profile-readme/ 
-
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
-</div> 
--->
 ### Hi there 👋 My name is Ilya
 
 I've been working in IT service management for a while now (think, like, way more than 7 years!), but recently I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course that sparked a passion for coding. Turns out, Python is my jam (who knew?)!
@@ -49,6 +43,10 @@ I'm passionate about using Python to create awesome software and I'm confident m
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
   </div> 
 
   ---
@@ -61,17 +59,11 @@ I'm passionate about using Python to create awesome software and I'm confident m
 
 
 <!--
+sources: https://www.sitepoint.com/github-profile-readme/ 
 
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/yjos61Qgsy17q/giphy.gif?cid=ecf05e47lumdg23etmsq377ckbahj7j0amoydk9559doqks8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1200" height="250"/>
 </div>
-
-**cult2rologist/cult2rologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
