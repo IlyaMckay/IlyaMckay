@@ -2,7 +2,7 @@
 
 I've been working in IT service management for a while now (think, like, way more than 8 years!), but last year I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course that sparked a passion for coding. Turns out, Python is my jam (who knew?)!
 
-So, now `I'm` a super motivated `Junior Python Developer` with nearly a year of self-learning under my belt. 
+So, now `I'm` a super motivated `Python Developer` with nearly a year of self-learning under my belt. 
 I've built a solid foundation in Python, even tackled some concurrency and microservices stuff!
 I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
 
