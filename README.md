@@ -24,7 +24,7 @@ I'm passionate about using Python to create awesome software and I'm confident m
 
 - 🏁 I recently completed development on the [Incident Management Telegram Bot](https://github.com/IlyaMckay/Incident-Mgmt-Telegram-Bot)
 
-- 🌱 Currently, I am enhancing my problem-solving skills through learning algorithms and mastering Big O notation
+- 🌱 Currently, I am working on a [Verb conjugator](https://github.com/IlyaMckay/Spanish-verbs-conjugator) web-application for a Spanish language school.
 
 ---
 
@@ -43,7 +43,7 @@ I'm passionate about using Python to create awesome software and I'm confident m
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/mwaskom/seaborn/ae7acf0ce6e30ae773f513e0ccadbb7341cf5e90/doc/_static/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="45" height="45"/>&nbsp;
