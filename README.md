@@ -1,12 +1,15 @@
-### Hi there 👋 My name is Ilya
+### Hi and welcome to my place 👋
 
-I've been working in IT service management for a while now (think, like, way more than 8 years!), but last year I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course that sparked a passion for coding. Turns out, Python is my jam (who knew?)!
+I've been working in IT service management for a while now (think, like, way more than 8 years!), but once I took a [Google Data Analytics](https://github.com/IlyaMckay/Google-Data-Analytics-Capstone-Cyclistic?tab=readme-ov-file) course that sparked a passion for coding.
 
-So, now `I'm` a super motivated `Python Developer` with nearly a year of self-learning under my belt. 
+Turns out, Python is my jam (who knew?)!
+### So, now `I'm` a super motivated `Python Developer`!
+
+<!-- with nearly a year of self-learning under my belt. -->
 I've built a solid foundation in Python, even tackled some concurrency and microservices stuff!
 I'm passionate about using Python to create awesome software and I'm confident my skills can make a real difference.
 
-#### For me there's no ~~life~~ code without:
+### For me there's no ~~life~~ code without:
 <details><summary>
   🛹 Sport and Music 🎸
   </summary>
@@ -22,9 +25,10 @@ I'm passionate about using Python to create awesome software and I'm confident m
 
 ### What's interesting 👀
 
-- 🏁 I recently completed development on the [Incident Management Telegram Bot](https://github.com/IlyaMckay/Incident-Mgmt-Telegram-Bot)
+- 🏁 I recently completed development on the verb [Conjugator](https://github.com/IlyaMckay/Spanish-verbs-conjugator) web-application for a [Spanish language school](https://expertsassert.com/propeller/espanol/).
+- ✔️ You can try it out [HERE](despacito.pythonanywhere.com)!
 
-- 🌱 Currently, I am working on a [Verb conjugator](https://github.com/IlyaMckay/Spanish-verbs-conjugator) web-application for a Spanish language school.
+<!-- -  Currently, I am working on a -->
 
 ---
 
